@@ -1,1 +1,1 @@
-# mly-open-api-sdk-kotlin
+# mly-stream-sdk-uploader-kotlin
